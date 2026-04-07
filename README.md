@@ -7,3 +7,9 @@ Simple API that simulates mainframe job status.
 
 ## Endpoint
 GET /status
+
+## How to run with Docker
+
+```bash
+docker build -t job-monitor .
+docker run -p 5000:5000 job-monitor
