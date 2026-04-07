@@ -63,7 +63,7 @@ This project aims to simulate monitoring of batch jobs in a mainframe-like envir
 **Henrique Morilha**
 
 IT Specialist | Mainframe Operations & Infrastructure
-SRE & DevOps Practices | Automation & Observability
+| SRE & DevOps Practices | Automation & Observability
 
 📍 Brazil
 🔗 LinkedIn: https://www.linkedin.com/in/hmorilha/
