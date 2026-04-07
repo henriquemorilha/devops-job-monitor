@@ -61,6 +61,7 @@ This project aims to simulate monitoring of batch jobs in a mainframe-like envir
 ## 👨‍💻 Author
 
 **Henrique Morilha**
+
 IT Specialist | Mainframe Operations & Infrastructure
 SRE & DevOps Practices | Automation & Observability
 
